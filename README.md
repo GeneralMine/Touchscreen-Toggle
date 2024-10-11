@@ -1,5 +1,5 @@
 # ToogleTouchScreen
-Toggle your touchscreen with just a button!
+Toggle your touchscreen with just a button! Made to resolve false touch inputs of my Microsoft Surface Pro.
 
 ## How it works
 The powershell script looks for your touchscreen device using keywords you provide in the script file. Currently, it's set to `Precise touch`, which matches the touchscreen of a Surface 5.
